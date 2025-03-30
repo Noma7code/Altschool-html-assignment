@@ -1,1 +1,1 @@
-# Altschool-html-assignment-1
+# Altschool-html-assignment
